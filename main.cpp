@@ -1,5 +1,13 @@
 #include "CS3113/Entity.h"
-
+/**
+* Author: [Zhi Chen]
+* Assignment: Lunar Lander
+* Date due: [3/14/2026]
+* I pledge that I have completed this assignment without
+* collaborating with anyone else, in conformance with the
+* NYU School of Engineering Policies and Procedures on
+* Academic Misconduct.
+**/
 // Global Constants
 constexpr int SCREEN_WIDTH  = 1000,
               SCREEN_HEIGHT = 600,
